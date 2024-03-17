@@ -2,7 +2,7 @@
 ![](thumbnail.png)
 
 ## Hosted Version of the Project:
-[m5react-weekly-test-2-appealing-online-portfolio-using-react.js-and-tailwindcss](https://m5react-weekly-test-2-appealing-online-portfolio-using-react.js-and-tailwindcss.vercel.app/)
+[m5react-weekly-test-2-appealing-online-portfolio-using-react.js-and-tailwindcss](https://m5react-weekly-test-2-appealing-online-portfolio-hu46rnevx.vercel.app/)
 
 ## Objective
 In this project, i have developed an appealing online portfolio using React.js and Tailwind CSS. The objective is to showcase my web development skills and creativity by designing a personal or professional portfolio website.

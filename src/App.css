@@ -28,3 +28,36 @@ body{
   color:rgb(255, 219, 112);
 }
 
+
+/* SCROLLBAR */
+/* scrollbar.css */
+
+/* Webkit Scrollbar */
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #0f172a ; /* Adjust color as needed */
+  border-radius: 6px;
+  border: 2px solid #0f172a ; /* Adjust color as needed */
+}
+
+::-webkit-scrollbar-track {
+  background-color: #fde047 ; /* Adjust color as needed */
+}
+
+/* Firefox Scrollbar */
+/* Add styling for scrollbar in Firefox if needed */
+
+/* Hide scrollbar track in Firefox */
+/* Adjust as needed based on Firefox version */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #fde047  #0f172a ; /* Adjust colors as needed */
+}
+
+*::-webkit-scrollbar {
+  display: none; /* Hide scrollbar in Safari */
+}
+

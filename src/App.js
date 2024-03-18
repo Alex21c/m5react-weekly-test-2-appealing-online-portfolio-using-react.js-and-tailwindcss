@@ -28,7 +28,10 @@ function App() {
             <Route path="/Certificates" element={<Certificates/>} />        
             <Route path="/Projects" element={<Projects/>} />        
             <Route path="/More" element={<More/>} />        
-            <Route path="/Contact" element={<Contact/>} />        
+            <Route path="/Contact" element={<Contact/>} />     
+             {/* Default Route is     */}
+             <Route path="/" element={<AboutMe/>} />  
+
           </Routes>
         </div>
       </div>

@@ -35,11 +35,11 @@ export default function Sidebar(){
         </div>
       </div>
 
-      <ul className='flex gap-[1rem] text-[1.5rem] text-slate-300 justify-center'>
-        <li><a href="#"><i className="fa-brands fa-github"></i></a></li>
-        <li><a href="#"><i className="fa-brands fa-linkedin"></i></a></li>
-        <li><a href="#"><i className="fa-brands fa-instagram"></i></a></li>
-        <li><a href="#"><i className="fa-brands fa-twitter"></i></a></li>
+      <ul className='flex gap-[1rem] text-[1.5rem] text-slate-300 justify-center '>
+        <li><a href="#"><i className="fa-brands fa-github hover:text-yellow-300"></i></a></li>
+        <li><a href="#"><i className="fa-brands fa-linkedin hover:text-yellow-300"></i></a></li>
+        <li><a href="#"><i className="fa-brands fa-instagram hover:text-yellow-300"></i></a></li>
+        <li><a href="#"><i className="fa-brands fa-twitter hover:text-yellow-300"></i></a></li>
       </ul>
       <div>
         
